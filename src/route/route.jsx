@@ -10,10 +10,6 @@ import NewsByCategory from "../components/Home/NewsByCategory";
     {
       path: "/",
       element: <Home />,
-    },
-    {
-      path: "news/:category",
-      element: <NewsByCategory />,
-    },
+    }
   ]);
   export default router;
