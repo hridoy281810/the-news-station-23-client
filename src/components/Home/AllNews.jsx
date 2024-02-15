@@ -5,7 +5,6 @@ import NewsCard from './NewsCard';
 
 const AllNews = ({allData,filterData}) => {
 
-
   return (
     <div className=''>
     
